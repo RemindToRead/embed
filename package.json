@@ -1,5 +1,5 @@
 {
-  "name": "remindembed",
+  "name": "@remindto/remindembed",
   "version": "0.0.1",
   "description": "One click reminder button for websites",
   "main": "dist/bundle.min.js",
